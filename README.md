@@ -148,7 +148,7 @@ Enables stakeholders to make data-driven decisions related to pricing, service q
 
 ## 📸 Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+https://github.com/Priyesh-Varale/Swiggy-Restaurant-Analysis/blob/main/Swiggy_Dashboard.png
 
 ---
 
