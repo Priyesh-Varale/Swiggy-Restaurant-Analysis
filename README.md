@@ -25,7 +25,7 @@ The Swiggy Restaurant Analytics Dashboard provides valuable insights into restau
 
 ## 📂 Data Source
 
-**Source:** Swiggy Restaurant Dataset
+**Source:** Swiggy_Final_Dataset
 
 ### Dataset Fields
 
